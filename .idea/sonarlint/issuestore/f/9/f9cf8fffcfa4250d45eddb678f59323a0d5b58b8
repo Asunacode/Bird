@@ -1,0 +1,11 @@
+
+A
+java:S1659
+"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8ü¿ê«È.
+^
+java:S1126U"AReplace this if-then-else statement by a single return statement.(»í¶½8Ú€²¬È.
+X
+java:S1117="6Rename "v0" which hides the field declared at line 20.(ş Ëôıÿÿÿÿ8±Š‘¬È.
+A
+java:S1659"$Declare "height" on a separate line.(’¼ÊÒ8äùï«È.
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(œ‘İùÿÿÿÿ8Ü«ô«È.

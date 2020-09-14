@@ -1,0 +1,24 @@
+
+U
+java:S2387"3"background" is the name of a field in "Component".(Êç ‰ûÿÿÿÿ8ËÂê¬È.
+B
+java:S1659"%Declare "column2" on a separate line.(ÜÌ¡ú8Æÿî¬È.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÆìÀüÿÿÿÿ8«Ùõ¬È.
+>	java:S131@""Add a default case to this switch.(ş™ÅŞ8áı¼±È.
+b	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Â¨‘8¡ÊÖ±È.
+g
+java:S3252…"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ÉÀˆ²È.
+h
+java:S1301g"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ8ĞôÛ±È.
+>	java:S131g""Add a default case to this switch.(ş™ÅŞ8ĞôÛ±È.
+N
+java:S1948",Make "background" transient or serializable.(Êç ‰ûÿÿÿÿ8ËÂê¬È.
+D
+java:S2189f""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ĞôÛ±È.
+I
+java:S1948",Make "startImage" transient or serializable.(®×Ïœ8­Ğì¬È.
+h
+java:S1301@"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ8áı¼±È.
+Q
+java:S1948"/Make "gameOverImage" transient or serializable.(Ÿìöışÿÿÿÿ8­Ğì¬È.
+>	java:S131P""Add a default case to this switch.(ş™ÅŞ8¡ÊÖ±È.
